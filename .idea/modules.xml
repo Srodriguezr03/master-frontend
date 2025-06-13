@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/master-fronted.iml" filepath="$PROJECT_DIR$/.idea/modules/master-fronted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway/master-fronted.api-gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway/master-fronted.api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway/master-fronted.api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway/master-fronted.api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway/master-fronted.api-gateway.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway/master-fronted.api-gateway.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/master-fronted.eureka-server.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/master-fronted.eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/master-fronted.eureka-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/master-fronted.eureka-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server/master-fronted.eureka-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server/master-fronted.eureka-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/master-backend/master-fronted.master-backend.iml" filepath="$PROJECT_DIR$/.idea/modules/master-backend/master-fronted.master-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/master-backend/master-fronted.master-backend.main.iml" filepath="$PROJECT_DIR$/.idea/modules/master-backend/master-fronted.master-backend.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/master-backend/master-fronted.master-backend.test.iml" filepath="$PROJECT_DIR$/.idea/modules/master-backend/master-fronted.master-backend.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ms-books-catalogue/master-fronted.ms-books-catalogue.iml" filepath="$PROJECT_DIR$/.idea/modules/ms-books-catalogue/master-fronted.ms-books-catalogue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ms-books-catalogue/master-fronted.ms-books-catalogue.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ms-books-catalogue/master-fronted.ms-books-catalogue.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ms-books-catalogue/master-fronted.ms-books-catalogue.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ms-books-catalogue/master-fronted.ms-books-catalogue.test.iml" />
+    </modules>
+  </component>
+</project>
