@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c01f2391-e7e2-4c37-8189-55bb6240ddcd" name="Changes" comment="merge v2" />
+    <list default="true" id="c01f2391-e7e2-4c37-8189-55bb6240ddcd" name="Changes" comment="merge v2">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/api-gateway/master-fronted.api-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/api-gateway/master-fronted.api-gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/master-backend/master-fronted.master-backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/master-backend/master-fronted.master-backend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +27,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/master-backend">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/ms-books-catalogue">
       <ProjectState />
     </projectState>
   </component>
@@ -82,6 +91,7 @@
     "Gradle.Download Sources.executor": "Run",
     "Gradle.MsBooksCatalogueApplicationTests.executor": "Run",
     "JavaScript Debug.problems-report.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.App.jsx.executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
@@ -91,8 +101,10 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ApiGatewayApplication (1).executor": "Run",
     "Spring Boot.ApiGatewayApplication.executor": "Run",
     "Spring Boot.EurekaServerApplication.executor": "Run",
+    "Spring Boot.MsBooksCatalogueApplication (1).executor": "Run",
     "Spring Boot.MsBooksCatalogueApplication.executor": "Run",
     "git-widget-placeholder": "nombre-de-tu-rama",
     "ignore.virus.scanning.warn.message": "true",
@@ -130,27 +142,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.MsBooksCatalogueApplicationTests">
-    <configuration name="C:/Users/Lenovo/Documents/SANTI/unir/actividad1FULL/master-frontend/ms-books-catalogue/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/ms-books-catalogue/build.gradle" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
     <configuration name="C:/Users/Lenovo/Documents/SANTI/unir/actividad1FULL/master-frontend/ms-books-catalogue/settings.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -198,37 +190,15 @@
     <configuration name="problems-report.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/master-frontend/ms-books-catalogue/build/reports/problems/problems-report.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ApiGatewayApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="api-gateway.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.relatos.apigateway.ApiGatewayApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="master-fronted.api-gateway.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.relatos.apigateway.ApiGatewayApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="eureka-server.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.relatos.eurekaserver.EurekaServerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="master-fronted.eureka-server.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.relatos.eurekaserver.EurekaServerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MsBooksCatalogueApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="master-fronted.ms-books-catalogue.main" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.relatos.msbookscatalogue.MsBooksCatalogueApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.relatos.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -244,22 +214,17 @@
     <list>
       <item itemvalue="Docker.eureka-server/Dockerfile" />
       <item itemvalue="Gradle.MsBooksCatalogueApplicationTests" />
-      <item itemvalue="Gradle.C:/Users/Lenovo/Documents/SANTI/unir/actividad1FULL/master-frontend/ms-books-catalogue/build.gradle" />
       <item itemvalue="Gradle.C:/Users/Lenovo/Documents/SANTI/unir/actividad1FULL/master-frontend/ms-books-catalogue/settings.gradle" />
       <item itemvalue="JavaScript Debug.problems-report.html" />
-      <item itemvalue="Spring Boot.ApiGatewayApplication (1)" />
-      <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
-      <item itemvalue="Spring Boot.ApiGatewayApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
-      <item itemvalue="Spring Boot.MsBooksCatalogueApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="Gradle.MsBooksCatalogueApplicationTests" />
         <item itemvalue="Docker.eureka-server/Dockerfile" />
         <item itemvalue="Gradle.C:/Users/Lenovo/Documents/SANTI/unir/actividad1FULL/master-frontend/ms-books-catalogue/settings.gradle" />
         <item itemvalue="JavaScript Debug.problems-report.html" />
-        <item itemvalue="Gradle.C:/Users/Lenovo/Documents/SANTI/unir/actividad1FULL/master-frontend/ms-books-catalogue/build.gradle" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +252,8 @@
       <workItem from="1749776598633" duration="8986000" />
       <workItem from="1749822620310" duration="2713000" />
       <workItem from="1749826431534" duration="1472000" />
-      <workItem from="1749828334349" duration="1964000" />
+      <workItem from="1749828334349" duration="2143000" />
+      <workItem from="1749830549479" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="preimera parte">
       <option name="closed" value="true" />
